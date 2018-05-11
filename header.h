@@ -1,7 +1,3 @@
-#include 
-
-
-
 static const byte ASCII[][5] =
 {
  {0x00, 0x00, 0x00, 0x00, 0x00} // 20  
